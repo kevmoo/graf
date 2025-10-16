@@ -1,8 +1,3 @@
-# app
+If you're hear from my [FlutterCon talk](https://www.youtube.com/watch?v=lgG3O_sScqU) take a look at https://github.com/kevmoo/holdings/tree/main/graf
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Sorry! 🙏
